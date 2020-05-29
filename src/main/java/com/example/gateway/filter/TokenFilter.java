@@ -42,6 +42,6 @@ public class TokenFilter extends ZuulFilter {
         }
 
 
-        return "x";
+        return "xy";
     }
 }
